@@ -1,2 +1,0 @@
-# autonomous-data-management
-This workshop will walk you through the different modules that achieve a use case of solving data integration and data management challenges typically present in an organization. Managing the data flow and integrating the data from many varied kinds of data sources pose a serious challenge to any organization. This effective management of the data is very critical as it can help derive better business insights that can drive business growth and development.
