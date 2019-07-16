@@ -1,0 +1,44 @@
+{
+    "workshop": {
+        "title": "Autonomous Data Management Hands-On Workshop",
+        "description": "This workshop will show how you can solve data integration and data management challenges typically present in an organization.",
+        "labs": [
+            {
+                "number": "0",
+                "filename": "README.md",
+                "title": "Read Me First",
+                "description": "Autonomous Data Management hands-on Workshop overview"
+            },
+            {
+                "number": "1",
+                "filename": "Lab050-Introduction-Start-Here.md",
+                "title": "Lab 50: Introduction and Provisioning ADW",
+                "description": "Introduction to the workshop and learn how to provision an ADW instance and connect to it "
+            },
+            {
+                "number": "100",
+                "filename": "Lab100-IntegrateRelationalDataIntoADWC.md",
+                "title": "Lab 100: Integrate Relational Data into ADW",
+                "description": "Instructions to load relational data into ADW"
+            },
+            {
+                "number": "200",
+                "filename": "Lab200-IntegrateBigDataIntoADWC.md",
+                "title": "Lab 200: Integrate Big Data into ADW",
+                "description": "Instructions to load data from big data platform to ADW"
+            },
+            {
+                "number": "300",
+                "filename": "Lab300-CreateExternalTableInADWC.md",
+                "title": "Lab 300: Create External Table in ADW",
+                "description": "Instructions to create external table in ADW"
+            },
+            {
+                "number": "400",
+                "filename": "Lab400-VisualizationUsingOAC.md",
+                "title": "Lab 400: Visualization using Oracle Analytics Cloud (OAC)",
+                "description": "Instructions to create visualization with OAC"
+            }
+        ]
+    }
+}
